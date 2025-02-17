@@ -7,4 +7,4 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in sport and programmation
 - 🌱 I’m currently learning React Native
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65af93c80c548122832401a9?variant=dark)](https://roadmap.sh)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasBorlet)](https://github.com/anuraghazra/github-readme-stats)
